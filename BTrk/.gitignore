@@ -1,17 +1,5 @@
 *~
 \#*
-BaBar/BField/
-BaBar/BaBar/
-BaBar/BbrGeom/
-BaBar/CLHEP/
-BaBar/Dch/
-BaBar/DetectorModel/
-BaBar/KalmanTrack/
-BaBar/MatEnv/
-BaBar/ProbTools/
-BaBar/TrajGeom/
-BaBar/TrkBase/
-BaBar/difAlgebra/
 .sconsign.dblite
 bin/artProductSizes
 bin/eventCount
@@ -33,6 +21,8 @@ gen
 *.pdf
 *.pyc
 *.orig
+*.swp
+*.nfs*
 BaBar/include
 EMFCAnalysis
 .tup
